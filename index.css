@@ -21,8 +21,8 @@ footer{
 }
 
 .hero-image {
-    background-image: url("/images/transparency\ 4\ download\ \(1\).png");
-    /* background-image: url("/images/360_F_726322600_f7QH5nIbisqzi4ku1QQ4Qm2eiz8aRO13.jpg"); */
+    background-image: url("images/transparency\ 4\ download\ \(1\).png");
+    /* background-image: url("images/360_F_726322600_f7QH5nIbisqzi4ku1QQ4Qm2eiz8aRO13.jpg"); */
 
     background-repeat: no-repeat;
     background-attachment: fixed;  
